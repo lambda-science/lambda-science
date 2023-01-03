@@ -1,7 +1,7 @@
 from rich.console import Console
 from rich.tree import Tree
 
-console = Console(record=True, width=100)
+console = Console(record=True, width=120)
 
 tree = Tree(
     "🐍 [link=https://cmeyer.fr/]Corentin Meyer", guide_style="bold bright_black"
