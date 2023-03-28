@@ -12,6 +12,9 @@ main_projects.add(
     "[bold link=https://github.com/lambda-science/MyoQuant]myoquant🔬[/]          - [bright_black]automatically quantify pathological features in muscle fiber histology images"
 )
 main_projects.add(
+    "[bold link=https://github.com/lambda-science/NLMyo]nlmyo🔧[/]          - [bright_black]a toolbox built to leverage the power of Large Language Models (llms) to exploit histology text reports."
+)
+main_projects.add(
     "[bold link=https://github.com/lambda-science/IMPatienT]impatient🗂️[/]          - [bright_black]web application to digitize, process and explore multimodal patient data"
 )
 main_projects.add(
@@ -29,13 +32,13 @@ main_projects.add(
 
 wip_tree = tree.add("🛠️ Work In Progess", guide_style="bright_black")
 wip_tree.add(
-    "[bold link=https://github.com/lambda-science/anonymizer]anonymizer[/]          - [bright_black]automatically censor patient data from pdfs using ocr"
+    "[bold link=https://github.com/lambda-science/thesis]thesis[/]          - [bright_black]my thesis in writing"
 )
 wip_tree.add(
     "[bold link=https://github.com/lambda-science/PredEx]predex[/]              - [bright_black]train and visualize learning classier systems (lcs) for explainable models"
 )
 wip_tree.add(
-    "[bold link=https://github.com/lambda-science/NLMyo]nlmyo[/]               - [bright_black]using nlp for automatic classification of muscle biopsy reports"
+    "[bold link=https://github.com/lambda-science/dnd-qa]dnd-qa🗡️[/]               - [bright_black]chatbot to answer questions about dungeons and dragons spells"
 )
 
 web_tree = tree.add("🔗 My Websites", guide_style="bright_black")
@@ -50,6 +53,9 @@ web_tree.add(
 )
 web_tree.add(
     "[bold link=https://lbgi.fr/MyoQuant]lbgi.fr/MyoQuant[/]    - [bright_black]myoquant web demo"
+)
+web_tree.add(
+    "[bold link=https://lbgi.fr/MyoQuant]lbgi.fr/NLMyo[/]    - [bright_black]nlmyo web demo"
 )
 web_tree.add(
     "[bold link=https://status.cmeyer.fr/]status.cmeyer.fr[/]    - [bright_black]website status page"
