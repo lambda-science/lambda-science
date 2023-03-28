@@ -1,7 +1,7 @@
 ### Hello ! 🐍
 
 I'm **Corentin Meyer, 3rd year PhD Student in biology and artificial intelligence**. I'm working on a family of genetic diseases (congenital myopathies) and I'm trying to improve their diagnosis by learning from biopsy reports (**NLP on free text**) and biopsy images (**image deep learning**). I also do some **teaching** of bioinformatics and machine-learning at the **Biotechnology School of Strasbourg** (ESBS).  
-My current main projects are [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️  
+My current main projects are [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬, [NLMyo](https://github.com/lambda-science/NLMyo)🔧 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️  
 You can find all way to reach me and see my work by accessing **my website: [cmeyer.fr](https://cmeyer.fr)**. I also run a blog where I try to communicate on the things I'm working on at [cmeyer.fr/blog/](https://cmeyer.fr/blog/)  
 Here you can find a tree of all my **GitHub projects**:
 
