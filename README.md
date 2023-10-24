@@ -1,7 +1,7 @@
 ### Hello ! 🐍
 
-I'm **Corentin Meyer, 3rd year PhD Student in biomedical AI**. I'm working on a family of genetic diseases (congenital myopathies) and I'm trying to improve their diagnosis by learning from biopsy reports (**NLP on free text**) and biopsy images (**image deep learning**). I also do some **teaching** of bioinformatics and machine-learning at the **Biotechnology School of Strasbourg** (ESBS).  
-My current main projects are [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬, [NLMyo](https://github.com/lambda-science/NLMyo)🔧 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️  
+I'm **Corentin Meyer**, I have a PhD in Biomedical AI. I worked on improving the diagnosis of a family of genetic diseases (congenital myopathies) by learning from biopsy reports (**NLP on free text**) and biopsy images (**image deep learning**). I also did some **teaching** of bioinformatics and machine-learning at the **Biotechnology School of Strasbourg** (ESBS).  
+My main projects are [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬, [NLMyo](https://github.com/lambda-science/NLMyo)🔧 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️  
 <p align="middle">
   <a href="https://github.com/lambda-science/NLMyo">
   <img src="https://i.imgur.com/avfbQiE.png" alt="NLMyo Banner" style="border-radius: 25px;" width="33%" /></a>
