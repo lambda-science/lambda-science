@@ -1,7 +1,16 @@
 ### Hello ! 🐍
 
-I'm **Corentin Meyer**, I have a PhD in Biomedical AI. I'm currently working as Data-Scientist and Engineer at ALE International. In the past, I worked on improving the diagnosis of a family of genetic diseases (congenital myopathies) by learning from biopsy reports (**NLP on free text**) and biopsy images (**image deep learning**). I also did some **teaching** of bioinformatics and machine-learning at the **Biotechnology School of Strasbourg** (ESBS).  
-My main projects are [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬, [NLMyo](https://github.com/lambda-science/NLMyo)🔧 and [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️  
+I'm **Corentin Meyer**. Currently **AI developer** at Alcatel-Lucent Enterprise, I have a **PhD in biomedical AI.**  
+
+At ALE I work on developping our internal generative AI solutions (LLMs) to support our company internal use-cases. I built and manage our generative AI initiative end to end: from the idea to the PoC up to the industralisation on AWS. I have a broad role as main technical expert and developer while maintaining good cross-departement communication and translating business requirement into technical implementation. On the side I also develop and maintain more classical AI models for sales & operations units.
+
+Previously my research focused on applying cutting-edge AI techniques to analyze patient data for genetic diseases, specifically congenital myopathies. I applied modern artificial intelligence techniques to analyze data of patients affected by a family of genetic diseases (congenital myopathies). I've build three open sources tools:
+- [NLMyo](https://github.com/lambda-science/NLMyo)🔧: a toolbox leverage Large Language Models (LLMs such as ChatGPT) to exploit histology reports
+- [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬: a tool to quantify pathological features on muscle biopsies image
+- [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️: a patient database tool to annotate, process and explore patient biopsy text reports
+
+**Check out my website at https://cmeyer.fr/ for more information.**
+
 <p align="middle">
   <a href="https://github.com/lambda-science/NLMyo">
   <img src="https://i.imgur.com/avfbQiE.png" alt="NLMyo Banner" style="border-radius: 25px;" width="33%" /></a>
