@@ -9,7 +9,7 @@ Previously my research focused on applying cutting-edge AI techniques to analyze
 - [MyoQuant](https://github.com/lambda-science/MyoQuant)🔬: a tool to quantify pathological features on muscle biopsies image
 - [IMPatienT](https://github.com/lambda-science/IMPatienT)🗂️: a patient database tool to annotate, process and explore patient biopsy text reports
 
-**Check out my website at https://cmeyer.fr/ for more information.**
+You can find all way to reach me and see my work by accessing **my website: [cmeyer.fr](https://cmeyer.fr)**. I also run a blog where I try to communicate on the things I'm working on at [cmeyer.fr/blog/](https://cmeyer.fr/blog/)  
 
 <p align="middle">
   <a href="https://github.com/lambda-science/NLMyo">
@@ -19,9 +19,6 @@ Previously my research focused on applying cutting-edge AI techniques to analyze
       <a href="https://github.com/lambda-science/IMPatienT">
   <img src="https://i.imgur.com/iH7UeUs.png" alt="IMPatienT Banner" style="border-radius: 25px;" width="33%" /></a>
 </p>
-
-You can find all way to reach me and see my work by accessing **my website: [cmeyer.fr](https://cmeyer.fr)**. I also run a blog where I try to communicate on the things I'm working on at [cmeyer.fr/blog/](https://cmeyer.fr/blog/)  
-
 
 Here you can find a tree of all my **GitHub projects**:
 
