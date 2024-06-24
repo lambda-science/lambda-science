@@ -1,6 +1,6 @@
 ### Hello ! 🐍
 
-I'm **Corentin Meyer**. Currently **AI developer** at Alcatel-Lucent Enterprise, I have a **PhD in biomedical AI.**  
+I'm **Corentin Meyer**. Currently **AI Engineer** at Alcatel-Lucent Enterprise, I have a **PhD in biomedical AI.**  
 
 At ALE I work on developping our internal generative AI solutions (LLMs) to support our company internal use-cases. I built and manage our generative AI initiative end to end: from the idea to the PoC up to the industralisation on AWS. I have a broad role as main technical expert and developer while maintaining good cross-departement communication and translating business requirement into technical implementation. On the side I also develop and maintain more classical AI models for sales & operations units.
 
